@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>FLYMINGO IMMIGRATIONS </title>
+<title>FLYMINGO IMMIGRATIONS- Assessment</title>
 
 <!-- Fav Icon -->
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -335,7 +335,10 @@
                   <input type="radio" name="question-2" value="10">Masters
                 </label>
                 <label class="field__answer">
-                  <input type="radio" name="question-2" value="5"> Diploma
+                  <input type="radio" name="question-2" value="5">Diploma 1 year
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-2" value="5">Diploma 2 year
                 </label>
               </div>
               <div >
@@ -349,6 +352,9 @@
               </div>
               <div >
                 <p class="field__question">Select Your Work Experience</p>
+                <label class="field__answer">
+                  <input type="radio" name="question-4" value="0">Less than 1yr
+                </label>
                 <label class="field__answer">
                   <input type="radio" name="question-4" value="0">Less than 3 yrs
                 </label>
@@ -375,6 +381,7 @@
                   <input type="radio" name="question-5" value="5">Competent
                 </label>
               </div>
+             
               <div >
                 <p class="field__question">Are You Married?</p>
                 <label class="field__answer">
@@ -395,8 +402,11 @@
              $totalcredits = $_GET["totalcredit"];
                echo "<h1>Your total credit is $totalcredits</h1>";
 
-               if($totalcredits >= 60){
-               echo "<h3>You are eligible for autralia</h3>";
+               if($totalcredits >= 67){
+               echo "<h3>You are eligible for Australia</h3>";
+           }
+           else{
+               echo "<h3>Not Eligible. Contact us to find out how you can Improve this.</h3>"
            }
      
                
@@ -411,8 +421,8 @@
 
 </section>
 
-        <br> <br>
-        <div style="text-align: center;">
+       
+        <div class="auto-container" style="padding-bottom: 50px">
           <div class="innerpage_section_title"> <h2>Check Your Eligibility</h2></div><p >Business people and skilled professionals can migrate to Australia based on their skill sets, educational qualifications and work experience. With the general skilled migration self-assessment test, an individual can evaluate his/her chances for Australian immigration.</p>
 <p >Individuals will score high if they are aged under 50, have English language proficiency, have adequate work experience in their nominated occupation, which must be included in the country’s SOL (Skilled Occupation List).</p>
 <p ><strong>Australia skilled migration points</strong></p>
@@ -632,7 +642,7 @@
 </tr>
 </tbody>
 </table>
-       
+                        </div>       
     
         <!-- main-footer -->
         <footer class="main-footer bg-color-2">
