@@ -395,9 +395,9 @@
              $totalcredits = $_GET["totalcredit"];
                echo "<h1>Your total credit is $totalcredits</h1>";
 
-               if($totalcredits >= 60){
+               if($totalcredits >= 65){
                echo "<h3>You are eligible for autralia</h3>";
-           }
+               }
      
                
                echo "<p>We have received your mail suceesfully, we will get touch with you soon.</p>";
