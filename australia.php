@@ -55,18 +55,16 @@
                 <div class="top-inner clearfix">
                     <div class="top-left pull-left">
                         <ul class="info clearfix">
-                            <li><i class="flaticon-home"></i>72 Main Drive, Calibry, FL</li>
+                            <li><i class="flaticon-home"></i>117A, Pocket E, GTB Enclave, Dilshad Garden, Delhi, 110093</li>
                             <li><i class="flaticon-open-email-message"></i><a href="mailto:inquiry@example.com">inquiry@example.com</a></li>
-                            <li><i class="flaticon-clock"></i>Mon - Fri : 0900 to 1800</li>
+                            <li><i class="flaticon-clock"></i>Mon - Fri : 9:00 to 5:00</li>
                         </ul>
                     </div>
                     <div class="top-right pull-right">
                         <ul class="social-links clearfix">
-                            <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="talk2flymingo@gmail.com"><i class="fab flaticon-email"></i></a></li>
                             <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="index.html"><i class="fab fa-instagram"></i></a></li>
-                            <li><a href="index.html"><i class="fab fa-linkedin-in"></i></a></li>
-                            <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
+                            <li><a href="instagram.com/flymingoimmigrations"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -87,105 +85,57 @@
                             </div>
                             <nav class="main-menu navbar-expand-md navbar-light">
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
-                                    <ul class="navigation clearfix">
-                                        <li class="dropdown"><a href="index.html">Home</a>
+                                    <ul class="navigation scroll-nav clearfix">
+                                        <li class="current dropdown"><a href="index.html">Home</a>
+                                        </li> 
+                                        <li><a href="#about">About</a></li>
+                                        <li><a href="#service">Service</a></li>
+                                        <li class="dropdown"><a href="#service-location">Migrate</a>
                                             <ul>
-                                                <li><a href="index.html">Home Page 01</a></li>
-                                                <li><a href="index-3.html">Home Page 02</a></li>
-                                                <li><a href="index-rtl.html">Home RTL</a></li>
-                                                <li><a href="index-onepage.html">Home OnePage</a></li>
-                                                <li class="dropdown"><a href="index.html">Header Style</a>
+                                                <li><a href="australia.php">Australia</a></li>
+                                                <li><a href="canada.php">Canada</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown"><a href="#service-location">Study</a>
+                                            <ul>
+                                                <li><a href="usa.html">USA</a></li>
+                                                <li><a href="australia.php">Australia</a></li>
+                                                <li><a href="canada.php">Canada</a></li>
+                                                <li class="dropdown"><a href="">Asia Pacific</a>
                                                     <ul>
-                                                        <li><a href="index.html">Header Style 01</a></li>
-                                                        <li><a href="index-3.html">Header Style 02</a></li>
+                                                        <li><a href="australia.html">Australia</a></li>
+                                                        <li><a href="japan.html">Japan</a></li>
+                                                        <li><a href="malaysia.html">Malaysia</a></li>
+                                                        <li ><a href="new-zealand.html">New Zealand</a>
+                                                            <li><a href="russia.html">Russia</a></li>
+                                                            <li><a href="singapore.html">Singapore</a></li>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class="dropdown"><a href="index.html">Europe</a>
+                                                    <ul>
+                                                        <li><a href="belgium.html">Belgium</a></li>
+                                                        <li><a href="denmark.html">Denmark</a></li>
+                                                        <li><a href="finland.html">Finland</a></li>
+                                                        <li><a href="france.html">France</a></li>
+                                                        <li><a href="germany.html">Germany</a></li>
+                                                        <li><a href="ireland.html">Ireland</a></li>
+                                                        <li><a href="italy.html"> Italy</a></li>
+                                                        <li><a href="luxembourg.html">Luxembourg</a></li>
+                                                        <li><a href="netherlands.html">Netherlands</a></li>
+                                                        <li><a href="norway.html">Norway</a></li>
+                                                        <li><a href="poland.html">Poland</a></li>
+                                                        <li><a href="portugal.html">Portugal</a></li>
+                                                        <li><a href="spain.html">Spain</a></li>
+                                                        <li><a href="sweden.html">Sweden</a></li>
+                                                        <li><a href="switzerland.html">Switzerland</a></li>
+                                                        <li><a href="uk.html">UK </a></li>
                                                     </ul>
                                                 </li>
                                             </ul>
-                                        </li> 
-                                        <li class="dropdown"><a href="index.html">About</a>
-                                            <ul>
-                                                <li><a href="about.html">About Us</a></li>
-                                                <li><a href="team.html">Our Team</a></li>
-                                                <li><a href="faq.html">Faq's</a></li>
-                                                <li><a href="error.html">404</a></li>
-                                            </ul>
                                         </li>
-                                        <li class="dropdown"><a href="index.html">Coaching</a>
-                                            <ul>
-                                                <li><a href="coaching.html">Our Coaching</a></li>
-                                                <li><a href="coaching-details.html">Take IELTS</a></li>
-                                                <li><a href="coaching-details-2.html">PTE Coaching</a></li>
-                                                <li><a href="coaching-details-3.html">Citizenship Test</a></li>
-                                                <li><a href="coaching-details-4.html">TOEFL</a></li>
-                                                <li><a href="coaching-details-5.html">SAT Coaching</a></li>
-                                                <li><a href="coaching-details-6.html">Skills Exam</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="index.html">Services</a>
-                                            <ul>
-                                                <li><a href="service.html">Service Page 01</a></li>
-                                                <li><a href="service-2.html">Service Page 02</a></li>
-                                                <li><a href="service-details.html">Business Visa</a></li>
-                                                <li><a href="service-details-2.html">Students Visa</a></li>
-                                                <li><a href="service-details-3.html">Immigration Visa</a></li>
-                                                <li><a href="service-details-4.html">Transit Visa</a></li>
-                                                <li><a href="service-details-5.html">Tourists Visa</a></li>
-                                                <li><a href="service-details-6.html">Diplomatic Visa</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="current dropdown"><a href="index.html">Elements</a>
-                                            <div class="megamenu">
-                                                <div class="row clearfix">
-                                                    <div class="col-lg-4 column">
-                                                        <ul>
-                                                            <li><h4>Elements 1</h4></li>
-                                                            <li><a href="about-element-1.html">About 01</a></li>
-                                                            <li><a href="about-element-2.html">About 02</a></li>
-                                                            <li><a href="feature-element-1.html">Feature 01</a></li>
-                                                            <li><a href="feature-element-2.html">Feature 02</a></li>
-                                                            <li><a href="feature-element-3.html">Feature 03</a></li>
-                                                            <li><a href="feature-element-4.html">Feature 04</a></li>
-                                                            <li><a href="counter-element-1.html">Fun Fact 01</a></li>
-                                                            <li><a href="counter-element-2.html">Fun Fact 02</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-4 column">
-                                                        <ul>
-                                                            <li><h4>Elements 2</h4></li>
-                                                            <li><a href="news-element-1.html">News 01</a></li>
-                                                            <li><a href="news-element-2.html">News 02</a></li>
-                                                            <li><a href="apply-element.html">Apply Process</a></li>
-                                                            <li><a href="team-element-1.html">Team 01</a></li>
-                                                            <li><a href="team-element-2.html">Team 02</a></li>
-                                                            <li><a href="testimonial-element-1.html">Testimonial 01</a></li>
-                                                            <li><a href="testimonial-element-2.html">Testimonial 02</a></li>
-                                                            <li><a href="clients-element.html">Clients</a></li>
-                                                        </ul>
-                                                    </div> 
-                                                    <div class="col-lg-4 column">
-                                                        <ul>
-                                                            <li><h4>Elements 3</h4></li>
-                                                            <li><a href="service-element-1.html">Service 01</a></li>
-                                                            <li><a href="service-element-2.html">Service 02</a></li>
-                                                            <li><a href="training-element.html">Training Block</a></li>
-                                                            <li><a href="inquiry-element.html">Inquiry Block</a></li>
-                                                            <li><a href="contact-element.html">Contact Form</a></li>
-                                                            <li><a href="faq-element.html">Faq Block</a></li>
-                                                            <li><a href="choose-element.html">Choose Block</a></li>
-                                                            <li><a href="footer-element.html">Footer</a></li>
-                                                        </ul>
-                                                    </div>                                        
-                                                </div>                                           
-                                            </div>
-                                        </li>    
-                                        <li class="dropdown"><a href="index.html">Blog</a>
-                                            <ul>
-                                                <li><a href="blog.html">Blog Grid</a></li>
-                                                <li><a href="blog-2.html">Blog List</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                            </ul>
-                                        </li> 
-                                        <li><a href="contact.html">Contact</a></li>                
+                                        <li><a href="nursing.html">Nursing</a></li>
+                                        <li><a href="contact.html">Contact</a></li>
                                     </ul>
                                 </div>
                             </nav>
@@ -198,14 +148,14 @@
                                 <div class="support-box">
                                     <i class="fas fa-phone-volume"></i>
                                     <p>Any Questions? Call us</p>
-                                    <h3><a href="tel:12463330079">+1 (246) 333 0079</a></h3>
+                                    <h3><a href="tel:+919717582915">+919717582915</a></h3>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
+      
             <!--sticky Header-->
             <div class="sticky-header">
                 <div class="auto-container">
@@ -234,18 +184,16 @@
                 <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
-                        <li>Chicago 12, Melborne City, USA</li>
+                        <li>117A, Pocket E, GTB Enclave, Dilshad Garden, Delhi, 110093</li>
                         <li><a href="tel:+8801682648101">+88 01682648101</a></li>
                         <li><a href="mailto:info@example.com">info@example.com</a></li>
                     </ul>
                 </div>
                 <div class="social-links">
                     <ul class="clearfix">
-                        <li><a href="index.html"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-facebook-square"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-pinterest-p"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-instagram"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-youtube"></span></a></li>
+                        <li><a href="talk2flymingo@gmail.com"><i class="fab flaticon-email"></i></a></li>
+                        <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="instagram.com/flymingoimmigrations"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </nav>
@@ -402,18 +350,12 @@
              $totalcredits = $_GET["totalcredit"];
                echo "<h1>Your total credit is $totalcredits</h1>";
 
-<<<<<<< HEAD
-               if($totalcredits >= 65){
-               echo "<h3>You are eligible for autralia</h3>";
-               }
-=======
                if($totalcredits >= 67){
                echo "<h3>You are eligible for Australia</h3>";
            }
            else{
-               echo "<h3>Not Eligible. Contact us to find out how you can Improve this.</h3>"
+               echo "<h3>Not Eligible. Contact us to find out how you can Improve this.</h3>";
            }
->>>>>>> 1ee8df79e1fcfbf03601f5dfc979831f97218568
      
                
                echo "<p>We have received your mail suceesfully, we will get touch with you soon.</p>";
@@ -429,7 +371,7 @@
 
        
         <div class="auto-container" style="padding-bottom: 50px">
-          <div class="innerpage_section_title"> <h2>Check Your Eligibility</h2></div><p >Business people and skilled professionals can migrate to Australia based on their skill sets, educational qualifications and work experience. With the general skilled migration self-assessment test, an individual can evaluate his/her chances for Australian immigration.</p>
+          <div class="innerpage_section_title"> <h2>Check Your Eligibility</h2></div><p >Business people and  professionals can migrate to Australia based on their skill sets, educational qualifications and work experience. With the general skilled migration self-assessment test, an individual can evaluate his/her chances for Australian immigration.</p>
 <p >Individuals will score high if they are aged under 50, have English language proficiency, have adequate work experience in their nominated occupation, which must be included in the country’s SOL (Skilled Occupation List).</p>
 <p ><strong>Australia skilled migration points</strong></p>
 <p >Under the<strong> Australia immigration point system,</strong> immigration candidates can acquire the required <strong>Australia migration points </strong>which are awarded to a candidate provided he meets the requirements under the following criteria.</p>
@@ -440,7 +382,7 @@
 <li ><strong>Australian Experience:</strong> The applicant can claim points for having worked in Australia in one of the occupations listed on the SOL on a full-time basis.</li>
 <li ><strong>Overseas Qualification points (Qualifications gained outside Australia):</strong> The applicant can claim points for recognized qualifications which is at a level of bachelor&#8217;s or higher or Ph.D.</li>
 <li ><strong>Australian Study: </strong>The applicant can claim additional points for doing a course in Australia of at least two academic years or more.</li>
-<li ><strong>Live and Study in Regional Area: </strong>The applicant can claim additional points if he has met the Australian study requirement of living and studying in a ‘regional low population growth metropolitan area’ for at least 2 years.</li>
+<li ><strong>Live and Study in  Area: </strong>The applicant can claim additional points if he has met the Australian study requirement of living and studying in a ‘regional low population growth metropolitan area’ for at least 2 years.</li>
 <li ><strong>Partner Skills: </strong>The applicant can claim points under partner skills if the partner satisfies the basic requirements of age, English language ability, qualifications and skills assessment result.</li>
 </ul>
 <p >Candidates scoring a minimum of 65 points would be considered eligible by DIBP (Department of Immigration and Border Protection), an organization responsible for immigration.</p>
@@ -745,6 +687,42 @@
 
 
     <!-- jequery plugins -->
+    <script>
+        var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?33572';
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = url;
+        var options = {
+      "enabled":true,
+      "chatButtonSetting":{
+          "backgroundColor":"#4dc247",
+          "ctaText":"",
+          "borderRadius":"25",
+          "marginLeft":"0",
+          "marginBottom":"110",
+          "marginRight":"20",
+          "position":"right"
+      },
+      "brandSetting":{
+          "brandName":"Flymingo Immigrations",
+          "brandSubTitle":"Typically replies within a Hour",
+          "brandImg":"https://cdn.clare.ai/wati/images/WATI_logo_square_2.png",
+          "welcomeText":"Hi there!\nHow can I help you?",
+          "messageText":"Hello, I have a question about {{page_link}}",
+          "backgroundColor":"#0a5f54",
+          "ctaText":"Start Chat",
+          "borderRadius":"25",
+          "autoShow":false,
+          "phoneNumber":"919717582915"
+      }
+    };
+        s.onload = function() {
+            CreateWhatsappChatWidget(options);
+        };
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+    </script>
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/popper.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
