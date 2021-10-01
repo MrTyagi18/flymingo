@@ -298,7 +298,7 @@
                                 <div class="col-lg-4 col-md-6 col-sm-12 form-group">
                                     <input type="text" name="address" id="address" placeholder="Address" required="">
                                 </div> 
-              <div >
+              <div>
                 <p class="field__question">Select Your Age ?</p>
                 <label class="field__answer">
                   <input type="radio" name="question-0" value="25">18 to 24 yrs
@@ -313,7 +313,7 @@
                   <input type="radio" name="question-0" value="15">40 to 44 yrs
                 </label>
               </div>
-              <div >
+              <div>
                 <p class="field__question">Did you study in Canada?</p>
                 <label class="field__answer">
                   <input type="radio" name="question-1" value="10">Yes
@@ -361,8 +361,7 @@
                   <input type="radio" name="question-4" value="15"> More than 8 yrs
                 </label>
               </div>
-
-              <div >
+              <div>
                 <p class="field__question">Select Your English Profeciency</p>
                 <label class="field__answer">
                   <input type="radio" name="question-5" value="10">Superior
@@ -375,6 +374,22 @@
                 </label>
               </div>
               <div >
+            
+                <p class="field__question">Select Your French Profeciency</p>
+                <label class="field__answer">
+                  <input type="radio" name="question-5" value="10">Superior
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-5" value="10"> Proficient
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-5" value="5">Competent
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-5" value="0">None
+                </label>
+              </div>
+              <div>
                 <p class="field__question">Are You Married?</p>
                 <label class="field__answer">
                   <input type="radio" name="question-6" value="10">Yes
@@ -382,10 +397,7 @@
                 <label class="field__answer">
                   <input type="radio" name="question-6" value="0">No
                 </label>
-              </div>
-
-
-                              
+              </div>            
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn centred">
                                     <button class="theme-btn-two" type="submit" name="submit-form"><i class="flaticon-send"></i>Submit</button>
                                 </div>
@@ -399,7 +411,7 @@
             }
      
                
-               echo "<p>We have received your mail suceesfully, we will get touch with you soon.</p>";
+               echo "<p>Get Started, Now.</p>";
                          }
                          ?>
                             </div>
@@ -407,127 +419,8 @@
                     </div>
                 </div>
             </div>
-
-</section>s
-        
-            <ul id="form__progress" class="form__progress"></ul>
-        
-            <!-- Actions -->
-            <div class="form__btn-row">
-              <span>
-              <select id="select-exits">
-                <optgroup label="Sliding Exits">
-                  <option value="slideOutUp"></option>
-                  <option value="slideOutDown"></option>
-                  <option value="slideOutLeft"></option>
-                  <option value="slideOutRight"></option>
-                </optgroup>
-                <optgroup label="Fading Exits">
-                  <option value="fadeOut"></option>
-                  <option value="fadeOutDown"></option>
-                  <option value="fadeOutDownBig"></option>
-                  <option value="fadeOutLeft"></option>
-                  <option value="fadeOutLeftBig"></option>
-                  <option value="fadeOutRight"></option>
-                  <option value="fadeOutRightBig"></option>
-                  <option value="fadeOutUp"></option>
-                  <option value="fadeOutUpBig"></option>
-                </optgroup>
-                <optgroup label="Zoom Exits">
-                  <option value="zoomOut"></option>
-                  <option value="zoomOutDown"></option>
-                  <option value="zoomOutLeft"></option>
-                  <option value="zoomOutRight"></option>
-                  <option value="zoomOutUp"></option>
-                </optgroup>
-                <optgroup label="Flippers">
-                  <option value="flipOutX"></option>
-                  <option value="flipOutY"></option>
-                </optgroup>
-                <optgroup label="Lightspeed">
-                  <option value="lightSpeedOut"></option>
-                </optgroup>
-                <optgroup label="Rotating Exits">
-                  <option value="rotateOut"></option>
-                  <option value="rotateOutDownLeft"></option>
-                  <option value="rotateOutDownRight"></option>
-                  <option value="rotateOutUpLeft"></option>
-                  <option value="rotateOutUpRight"></option>
-                </optgroup>
-                <optgroup label="Bouncing Exits">
-                  <option value="bounceOut"></option>
-                  <option value="bounceOutDown"></option>
-                  <option value="bounceOutLeft"></option>
-                  <option value="bounceOutRight"></option>
-                  <option value="bounceOutUp"></option>
-                </optgroup>
-                <optgroup label="Specials">
-                  <option value="rollOut"></option>
-                </optgroup>
-                <optgroup label="---">
-                  <option value=""></option>
-                </optgroup>
-              </select>
-            </span>
-              <span>
-              <select id="select-entrances">
-                <optgroup label="Sliding Entrances">
-                  <option value="slideInUp"></option>
-                  <option value="slideInDown"></option>
-                  <option value="slideInLeft"></option>
-                  <option value="slideInRight"></option>
-                </optgroup>
-                <optgroup label="Fading Entrances">
-                  <option value="fadeIn"></option>
-                  <option value="fadeInDown"></option>
-                  <option value="fadeInDownBig"></option>
-                  <option value="fadeInLeft"></option>
-                  <option value="fadeInLeftBig"></option>
-                  <option value="fadeInRight"></option>
-                  <option value="fadeInRightBig"></option>
-                  <option value="fadeInUp"></option>
-                  <option value="fadeInUpBig"></option>
-                </optgroup>
-                <optgroup label="Zoom Entrances">
-                  <option value="zoomIn"></option>
-                  <option value="zoomInDown"></option>
-                  <option value="zoomInLeft"></option>
-                  <option value="zoomInRight"></option>
-                  <option value="zoomInUp"></option>
-                </optgroup>
-                <optgroup label="Flippers">
-                  <option value="flipInX"></option>
-                  <option value="flipInY"></option>
-                </optgroup>
-                <optgroup label="Lightspeed">
-                  <option value="lightSpeedIn"></option>
-                </optgroup>
-                <optgroup label="Rotating Entrances">
-                  <option value="rotateIn"></option>
-                  <option value="rotateInDownLeft"></option>
-                  <option value="rotateInDownRight"></option>
-                  <option value="rotateInUpLeft"></option>
-                  <option value="rotateInUpRight"></option>
-                </optgroup>
-                <optgroup label="Bouncing Entrances">
-                  <option value="bounceIn"></option>
-                  <option value="bounceInDown"></option>
-                  <option value="bounceInLeft"></option>
-                  <option value="bounceInRight"></option>
-                  <option value="bounceInUp"></option>
-                </optgroup>
-                <optgroup label="Specials">
-                  <option value="rollIn"></option>
-                </optgroup>
-              </select>
-            </span>
-              <span><a href="#" id="lucky"></a></span>
-            </div>
-          </div>
-        
-        </div>
-    </div>
-        <div style="text-align: center;">
+</section>
+        <div class="auto-container" style="padding-bottom: 50px">
           <div class="et_pb_text_inner">
             <h5><b>FACTORS TO DETERMINE IF YOU ARE ELIGIBLE TO APPLY FOR CANADA IMMIGRATION OR NOT</b></h5>
             <p>Your immigration to Canada on a PR status will be greatly influenced by your profile. The points required to file for a Canada PR include the eligibility requirement which is 67 points out of 100. You will need to score at least 67 points under various eligibility criteria to apply for a Canada PR visa. Your application will be point based system purely depending on the below 6 factors:-</p>
@@ -561,16 +454,17 @@
             <ul>
             <li style="list-style-type: none;">
             <ul>
-            <li ><b class="canada_page_cal_h5">BOOST YOUR LANGUAGE SCORE:</b>If you score well in language tests such as the IELTS, your CRS score will improve. For example, in the language test, if you score a Canadian Language Benchmark (CLB) of 9, you’ll get up to 136 direct points added to your CRS ranking. Appearing for a language test in French can also add up to 72 points.</li>
-            <li ><b class="canada_page_cal_h5">PROVINCIAL NOMINEE PROGRAM:</b>if you receive an invitation, you will receive 600 additional points for your Express Entry profile.</li>
-            <li ><b class="canada_page_cal_h5">GET A WORK OFFER [LMIA Approved]:</b>If you receive a work offer recognized by the Labor Market Impact Assessment (LMIA) from an employer in Canada, you can add up to 200 points to your CRS ranking.</li>
-            <li ><b class="canada_page_cal_h5">GET EDUCATION IN CANADA:</b>Up to 30 extra points can be received if you complete a recognized degree or diploma in Canada.</li>
-            <li ><b class="canada_page_cal_h5">DEPENDENT INCLUDED IN THE APPLICATION</b>[Spouse/Common-Law Partner]:Applying with your spouse for the visa will earn you both additional points. The language proficiency of your spouse would be worth 20 points, while the education level and Canadian work experience can earn you as much as 10 points for each category. So, this will add up to 40 points to your CRS score.</li>
-            <li ><b class="canada_page_cal_h5">CANADIAN WORK EXPERIENCE:</b>If you have fewer than three years of full-time work experience and if you continue to work you can add maximum 150 points to your CRS score.</li>
+            <li ><b class="canada_page_cal_h5">BOOST YOUR LANGUAGE SCORE:</b><br> If you score well in language tests such as the IELTS, your CRS score will improve. For example, in the language test, if you score a Canadian Language Benchmark (CLB) of 9, you’ll get up to 136 direct points added to your CRS ranking. Appearing for a language test in French can also add up to 72 points.</li>
+            <li ><b class="canada_page_cal_h5">PROVINCIAL NOMINEE PROGRAM:</b><br> if you receive an invitation, you will receive 600 additional points for your Express Entry profile.</li>
+            <li ><b class="canada_page_cal_h5">GET A WORK OFFER [LMIA Approved]:</b><br> If you receive a work offer recognized by the Labor Market Impact Assessment (LMIA) from an employer in Canada, you can add up to 200 points to your CRS ranking.</li>
+            <li ><b class="canada_page_cal_h5">GET EDUCATION IN CANADA:</b><br> Up to 30 extra points can be received if you complete a recognized degree or diploma in Canada.</li>
+            <li ><b class="canada_page_cal_h5">DEPENDENT INCLUDED IN THE APPLICATION</b> <br> [Spouse/Common-Law Partner]:Applying with your spouse for the visa will earn you both additional points. The language proficiency of your spouse would be worth 20 points, while the education level and Canadian work experience can earn you as much as 10 points for each category. So, this will add up to 40 points to your CRS score.</li>
+            <li ><b class="canada_page_cal_h5">CANADIAN WORK EXPERIENCE:</b><br> If you have fewer than three years of full-time work experience and if you continue to work you can add maximum 150 points to your CRS score.</li>
             </ul>
             </li>
             </ul>
         </div>
+                        </div>
         <!-- main-footer -->
         <footer class="main-footer bg-color-2">
             <div class="auto-container">
