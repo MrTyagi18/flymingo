@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>FLYMINGO IMMIGRATIONS -Malaysia</title>
+<title>FLYMINGO IMMIGRATIONS- Assessment</title>
 
 <!-- Fav Icon -->
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -15,20 +14,28 @@
 <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600;1,700;1,800&amp;display=swap" rel="stylesheet">
 
-<!-- Stylesheets -->
+<!-- Stylesheets-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/unsemantic/0/unsemantic-grid-responsive.css">
+<link rel="stylesheet" href="">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css">
 <link href="assets/css/font-awesome-all.css" rel="stylesheet">
 <link href="assets/css/flaticon.css" rel="stylesheet">
 <link href="assets/css/owl.css" rel="stylesheet">
 <link href="assets/css/bootstrap.css" rel="stylesheet">
 <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
 <link href="assets/css/animate.css" rel="stylesheet">
-<link href="assets/css/nice-select.css" rel="stylesheet">
 <link href="assets/css/color/theme-color.css" id="jssDefault" rel="stylesheet">
 <link href="assets/css/switcher-style.css" rel="stylesheet">
 <link href="assets/css/style.css" rel="stylesheet">
 <link href="assets/css/responsive.css" rel="stylesheet">
+<link href="assets/css/nice-select.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.3.0/animate.min.css">
 
 </head>
+
 
 
 <!-- page wrapper -->
@@ -43,65 +50,7 @@
             <div class="layer layer-three"><span class="overlay"></span></div>        
         </div>
 
-
-        <!-- switcher menu -->
-        <div class="switcher">
-            <div class="switch_btn">
-                <button><i class="fas fa-palette"></i></button>
-            </div>
-            <div class="switch_menu">
-                <!-- color changer -->
-                <div class="switcher_container">
-                    <ul id="styleOptions" title="switch styling">
-                        <li>
-                            <a href="javascript: void(0)" data-theme="red" class="red-color"></a>
-                        </li>
-                        <li>
-                            <a href="javascript: void(0)" data-theme="pink" class="pink-color"></a>
-                        </li>
-                        <li>
-                            <a href="javascript: void(0)" data-theme="violet" class="violet-color"></a>
-                        </li>
-                        <li>
-                            <a href="javascript: void(0)" data-theme="crimson" class="crimson-color"></a>
-                        </li>
-                        <li>
-                            <a href="javascript: void(0)" data-theme="orange" class="orange-color"></a>
-                        </li>
-                    </ul>
-                </div> 
-            </div>
-        </div>
-        <!-- end switcher menu -->
-
-
-        <!-- search-popup -->
-        <div id="search-popup" class="search-popup">
-            <div class="close-search"><span>Close</span></div>
-            <div class="popup-inner">
-                <div class="overlay-layer"></div>
-                <div class="search-form">
-                    <form method="post" action="https://azim.commonsupport.com/FLYMINGO IMMIGRATIONS/index.html">
-                        <div class="form-group">
-                            <fieldset>
-                                <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here" required >
-                                <input type="submit" value="Search Now!" class="theme-btn style-four">
-                            </fieldset>
-                        </div>
-                    </form>
-                    <h3>Recent Search Keywords</h3>
-                    <ul class="recent-searches">
-                        <li><a href="index-2.html">Finance</a></li>
-                        <li><a href="index-2.html">Idea</a></li>
-                        <li><a href="index-2.html">Service</a></li>
-                        <li><a href="index-2.html">Growth</a></li>
-                        <li><a href="index-2.html">Plan</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!-- search-popup end -->
-
+       
         <!-- main header -->
         <header class="main-header style-one">
             <div class="header-top">
@@ -254,11 +203,11 @@
 
 
         <!--Page Title-->
-        <section class="page-title" style="background-image: url(assets/images/background/page-title-7.jpg);">
+        <section class="page-title" style="background-image: url(assets/images/background/page-title.jpg);">
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title-box">
-                        <h1>Malaysia</h1>
+                        <h1>CANADA </h1>
                         <div class="dotted-box">
                             <span class="dotted"></span>
                             <span class="dotted"></span>
@@ -266,182 +215,207 @@
                         </div>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><i class="flaticon-home-1"></i><a href="index-2.html">Home</a></li>
-                        <li>Visas</li>
-                        <li>Study In Malaysia</li>
+                        <li><i class="flaticon-home-1"></i><a href="index.html">Home</a></li>
+                        <li>Canada Assessment</li>
                     </ul>
                 </div>
             </div>
         </section>
         <!--End Page Title-->
-
-
-        <!-- sidebar-page-container -->
-        <div class="sidebar-page-container">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
-                        <div class="sidebar">
-                            <div class="sidebar-widget sidebar-categories">
-                                <ul class="categories-list clearfix">
-                                    <li><a href="uk.html">Study In UK<i class="flaticon-send"></i></a></li>
-                                    <li><a href="usa.html">Study In USA<i class="flaticon-send"></i></a></li>
-                                    <li><a href="denmark.html">Study In Denmark<i class="flaticon-send"></i></a></li>
-                                    <li><a href="germany.html" >Study In Germany<i class="flaticon-send"></i></a></li>
-                                    <li><a href="europe.html">Study In Europe<i class="flaticon-send"></i></a></li>
-                                    <li><a href="france.html" >Study In France<i class="flaticon-send"></i></a></li>
-                                    <li><a href="ireland.html" >Study In Ireland<i class="flaticon-send"></i></a></li>
-                                    <li><a href="norway.html" >Study In Norway<i class="flaticon-send"></i></a></li>
-                                    <li><a href="sweden.html" class="active">Study In Sweden<i class="flaticon-send"></i></a></li>
-                                    <li><a href="switzerland.html">Study In Switzerland<i class="flaticon-send"></i></a></li>
-                                    <li></li>
-                                </ul>
-                            </div>
-                           
-                           
-                            <div class="sidebar-widget sidebar-assessment">
-                                <div class="widget-title">
-                                    <h3>Free Online Assessment</h3>
-                                    <div class="dotted-box">
-                                        <span class="dotted"></span>
-                                        <span class="dotted"></span>
-                                        <span class="dotted"></span>
-                                    </div>
-                                </div>
-                                <div class="widget-content">
-                                    <form action="https://azim.commonsupport.com/FLYMINGO IMMIGRATIONS/service-details.html" method="post" class="assessment-form">
-                                        <div class="form-group">
-                                            <input type="text" name="name" placeholder="Full Name" required="">
-                                        </div>
-                                        <div class="form-group">
-                                            <input type="email" name="email" placeholder="Email address" required="">
-                                        </div>
-                                        <div class="form-group">
-                                            <input type="text" name="phone" placeholder="Phone" required="">
-                                        </div>
-                                        <div class="form-group">
-                                            <div class="select-box">
-                                                <select class="wide">
-                                                   <option data-display="Select">Select Visa Type</option>
-                                                   <option value="1">Working Visas</option>
-                                                   <option value="2">Study Visas</option>
-                                                   <option value="3">Business Visas</option>
-                                                   <option value="4">Tourist Visas</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="form-group">
-                                            <textarea name="message" placeholder="Message"></textarea>
-                                        </div>
-                                        <div class="form-group">
-                                            <button type="submit" class="theme-btn-two"><i class="flaticon-send"></i>Send Message</button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
+             <section class="contact-page-section">
+            <div class="auto-container"> 
+               <div class="contact-form-inner">
+                    <div class="sec-title centred">
+                        <h2>Let’s Start a Conversation Today!</h2>
+                        <div class="dotted-box">
+                            <span class="dotted"></span>
+                            <span class="dotted"></span>
+                            <span class="dotted"></span>
                         </div>
                     </div>
-                    <div class="col-lg-8 col-md-12 col-sm-12 content-side">
-                        <div class="coaching-details-content service-details-content">
-                            <div class="content-style-one">
-                                <figure class="image-box"><img src="assets/images/service/service-18.jpg" alt=""></figure>
-                                <div class="group-title">
-                                    <h2>Study IN Malaysia</h2>
-                                    <div class="dotted-box">
-                                        <span class="dotted"></span>
-                                        <span class="dotted"></span>
-                                        <span class="dotted"></span>
-                                    </div>
+                    <div class="form-inner">
+                        <form method="post" action="canpoint.php" id="contact-form" class="default-form"> 
+                            <div class="row clearfix">
+                                <div class="col-lg-4 col-md-6 col-sm-12 form-group">
+                                    <input type="text" name="username" id ="name" placeholder="Your Name " required="">
                                 </div>
-                                <div class="text">
-                                    <p>Malaysia is a politically sound and geographically safe country, free from natural disasters. With its modern infrastructure and efficient transportation system, Malaysia makes a safe and comfortable place to live and study.
-                                        </p> <p>
-                                            Institutions of higher learning in Malaysia provide professional, career-focused education offering courses that are up-to-date and market relevant.
-                                    </p>
+                                <div class="col-lg-4 col-md-6 col-sm-12 form-group">
+                                    <input type="email" name="email" id="email" placeholder="Email address" required="">
                                 </div>
-                            </div>
-                            <h5>Why Malaysia</h5>
-                            <p>
-                                Courses ranked among the top 100 in the world for Computer Science & Engineering <br>
-                                Ranked 16th among the world’s Safest Countries <br>
-                                Modern Campuses with Agile Infrastructure and Strong Digital Infrastructure
-                                Recognizes Chinese Education, Tamil Education, Methodist Education, English education and Islamic Education as part of mainstream education.
-                                20 hours per week Part-time Work permitted. <br>
-                                Asia-Pacific Headquarters of Companies such as CIMB Holdings, Maybank, Genting Group, Petronas
-                                Part-time Work Opportunities during Studies</p>
-                            <p>&nbsp;</p>
-                           
-                            <h6>Top Universities in Japan</h6>
-                            <p>
-                                
-                                University Malaya <br>
-                                University Kebangsaan Malaysia <br>
-                                University Kebangsaan Malaysia <br>
-                                University Putra Malaysia <br>
-                                University Sains Malaysia <br>
-                                University Teknologi Malaysia</p>
-                            <p>&nbsp;</p>
-                           <h6>In Demand Job Sectors</h6>
-                           <p>
+                                 <div class="col-lg-4 col-md-6 col-sm-12 form-group">
+                                    <input type="text" name="phoneno" id="phoneno" placeholder="Phone Number" required="">
+                                </div>  
 
-Finance & Accounting
-Human Resources
-IT (Cyber Security)
-Computer Science;
-Education
-Multimedia Design
-Culinary arts
-                           </p>
+                                <div class="col-lg-4 col-md-6 col-sm-12 form-group">
+                                    <input type="text" name="address" id="address" placeholder="Address" required="">
+                                </div> 
+              <div>
+                <p class="field__question">Select Your Age ?</p>
+                <label class="field__answer">
+                  <input type="radio" name="question-0" value="25">18 to 24 yrs
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-0" value="30"> 25 to 32 yrs
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-0" value="25"> 33 to 39 yrs
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-0" value="15">40 to 44 yrs
+                </label>
+              </div>
+              <div>
+                <p class="field__question">Did you study in Canada?</p>
+                <label class="field__answer">
+                  <input type="radio" name="question-1" value="10">Yes
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-1" value="0">No
+                </label>
+              </div>
+              <div >
+                <p class="field__question">Select Your Education Qualifications</p>
+                <label class="field__answer">
+                  <input type="radio" name="question-2" value="20">PhD
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-2" value="15"> Bachelors
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-2" value="10">Masters
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-2" value="5"> Diploma
+                </label>
+              </div>
+              <div >
+                <p class="field__question">Do You Have Experience In Canada</p>
+                <label class="field__answer">
+                  <input type="radio" name="question-3" value="10">Yes
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-3" value="0">No
+                </label>
+              </div>
+              <div >
+                <p class="field__question">Select Your Work Experience</p>
+                <label class="field__answer">
+                  <input type="radio" name="question-4" value="0">Less than 3 yrs
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-4" value="5"> 3 to 4 yrs
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-4" value="10">5 to 7 yrs
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-4" value="15"> More than 8 yrs
+                </label>
+              </div>
+              <div>
+                <p class="field__question">Select Your English Profeciency</p>
+                <label class="field__answer">
+                  <input type="radio" name="question-5" value="10">Superior
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-5" value="10"> Proficient
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-5" value="5">Competent
+                </label>
+              </div>
+              <div >
+            
+                <p class="field__question">Select Your French Profeciency</p>
+                <label class="field__answer">
+                  <input type="radio" name="question-5" value="10">Superior
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-5" value="10"> Proficient
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-5" value="5">Competent
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-5" value="0">None
+                </label>
+              </div>
+              <div>
+                <p class="field__question">Are You Married?</p>
+                <label class="field__answer">
+                  <input type="radio" name="question-6" value="10">Yes
+                </label>
+                <label class="field__answer">
+                  <input type="radio" name="question-6" value="0">No
+                </label>
+              </div>            
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn centred">
+                                    <button class="theme-btn-two" type="submit" name="submit-form"><i class="flaticon-send"></i>Submit</button>
+                                </div>
+                       <?php 
+                       if(!empty($_GET["totalcredit"])){
+             $totalcredits = $_GET["totalcredit"];
+               echo "<h1>Your total credit is $totalcredits</h1>";
+
+               if($totalcredits >= 60){
+               echo "<h3>You are eligible for Canada</h3>";
+           }
+     
+               
+               echo "<p>Get Started, Now.</p>";
+                         }
+                         ?>
                             </div>
-                            <div class="accordion-content">
-                                <h3>Frequently asked Questions</h3>
-                                <ul class="accordion-box">
-                                    <li class="accordion block active-block">
-                                        <div class="acc-btn active">
-                                            <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                            <h5> What are the eligibility criteria for a masters degree?
-                                                </h5>
-                                        </div>
-                                        <div class="acc-content current">
-                                            <p>A: Each university and course has different criteria, but the most common is a bachelors degree in a relevant field. Most reputed business schools will also require a GMAT or GRE. Check the university’s website for the relevant course to find exact requirements.</p>
-                                        </div>
-                                    </li>
-                                    <li class="accordion block">
-                                        <div class="acc-btn">
-                                            <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                            <h5>What are Benefits of staying in Malaysia?
-                                              
-                                               </h5>
-                                        </div>
-                                        <div class="acc-content">
-                                            <p> A: 
-                                                It is Asia's developing Higher Education Hub.
-                                                There are many great Malaysian universities, which prove they are the best in the world.
-                                                There is no language barrier. People living there easily understand and speak English.
-                                                No need of spending a higher amount for a high quality of life.</p>
-                                        </div>
-                                    </li>
-                                    <li class="accordion block">
-                                         <div class="acc-btn">
-                                            <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                            <h5>Popular Jobs in Malaysia
-                                              
-                                               </h5>
-                                        </div>
-                                        <div class="acc-content">
-                                            <p>A:  some of the in-demand engineering jobs include civil engineer, mechanical engineer, chemical engineer, electrical / electronics engineer, mechatronics engineer, mining engineer and research and development manager.</p>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                        </form>
                     </div>
                 </div>
             </div>
+</section>
+        <div class="auto-container" style="padding-bottom: 50px">
+          <div class="et_pb_text_inner">
+            <h5><b>FACTORS TO DETERMINE IF YOU ARE ELIGIBLE TO APPLY FOR CANADA IMMIGRATION OR NOT</b></h5>
+            <p>Your immigration to Canada on a PR status will be greatly influenced by your profile. The points required to file for a Canada PR include the eligibility requirement which is 67 points out of 100. You will need to score at least 67 points under various eligibility criteria to apply for a Canada PR visa. Your application will be point based system purely depending on the below 6 factors:-</p>
+            <ul>
+            <li>Factor 1 : <b class="canada_page_cal_h5">AGE</b></li>
+            <li>Factor 2 : <b class="canada_page_cal_h5">EDUCATION</b></li>
+            <li>Factor 3 : <b class="canada_page_cal_h5">EXPERIENCE</b></li>
+            <li>Factor 4 : <b class="canada_page_cal_h5">LANGUAGE SKILLS</b></li>
+            <li>Factor 5 : <b class="canada_page_cal_h5">ARRANGED EMPLOYMENT IN CANADA </b>[LMIA approved ]</li>
+            <li>Factor 6 : <b class="canada_page_cal_h5">ADAPTABILITY</b></li>
+            </ul>
+            <h5 class="canada_page_cal_h5"><b>AGE – MAXIMUM 12 POINTS </b></h5>
+            <p>Points will be awarded to applicants for their age. They can obtain a maximum 12 points. The age <strong>calculation is done from the day your application is received</strong>.</p>
+            <h5 class="canada_page_cal_h5"><b>EDUCATION – MAXIMUM 25 POINTS</b></h5>
+            <p>You can score a maximum 25 Canada immigration points for your education. If you have an overseas education you must have an ECA report from an authorized agency. <strong>Educational Credential Assessment</strong> report evaluates whether your overseas degrees/diplomas are on par with Canadian education.</p>
+            <h5 class="canada_page_cal_h5"><b>EXPERIENCE – MAXIMUM 15 POINTS</b></h5>
+            <p>Canada immigration points will also be incurred for your work experience. You can obtain points for the number of years you worked full-time that was <strong>paid and a minimum 30 hours weekly</strong>. An equal amount of part-time work is also eligible. You can obtain a maximum 15 points for this factor, as quoted by Canada</p>
+            <h5 class="canada_page_cal_h5"><b>LANGUAGE SKILLS – MAXIMUM 28 POINTS</b></h5>
+            <p>Knowledge of <strong>English and or French</strong> will help you in the entry into the Canadian job market. You can obtain a maximum 28 points for your language skills assessed for writing, reading, listening, and speaking.</p>
+            <h5 class="canada_page_cal_h5"><b>ARRANGED EMPLOYMENT IN CANADA – MAXIMUM 10 POINTS</b></h5>
+            <p>You can also obtain Canada immigration points for a job offer of minimum 1-year form an employer in Canada. You must <strong>get this offer prior to submitting an application</strong> for arriving in Canada as a federal skilled worker.</p>
+            <h5 class="canada_page_cal_h5"><b>ADAPTABILITY – MAXIMUM 10 POINTS</b></h5>
+            <p>You will be offered points based on your <strong>past study, work, and relatives in Canada. Your Common-Law-Partner or Spouse</strong> if immigrating to Canada with you can also incur additional points under the adaptability.</p>
+            <p>By now you already know that CANADA follows a points system to select immigration candidates. Candidates need to score at least 67 points under various criteria to be eligible to apply for PR visa. Eligible potential candidate can now file his/her online application into the Express Entry Online Pool which is Canada’s most popular immigration program.</p>
+            <p>IRCC conduct draw [Every Fortnight] to pick candidates from the Express Entry Online Pool based on the rank of a candidate and the system is termed as CRS – Comprehensive Ranking System. The CRS score will vary with each Express Entry draw. Candidates who meet the current draw CRS CUT-OFF score are issued ITA – Invitation To Apply and are then invited to apply for the PR visa.</p>
+            <p>Candidate’s factors such as age, work experience, adaptability, etc. determine your CRS score. If your CRS is low then there are several ways how to improve your score.</p>
+            <h5 class="canada_page_cal_h5"><b>WAYS TO IMPROVE YOUR CRS SCORE</b></h5>
+            <p>The Express Entry draw is conducted at regular intervals, so there is always a chance for you to improve your CRS score before you apply for a subsequent Express Entry draw.</p>
+            <p>If you do not meet the required CRS score you can always find ways to improve your points so that you get the required points to secure an Invitation to Apply (ITA) for the PR visa in the next Express Entry draw.</p>
+            <p>Here are some ways to improve your CRS score</p>
+            <ul>
+            <li style="list-style-type: none;">
+            <ul>
+            <li ><b class="canada_page_cal_h5">BOOST YOUR LANGUAGE SCORE:</b><br> If you score well in language tests such as the IELTS, your CRS score will improve. For example, in the language test, if you score a Canadian Language Benchmark (CLB) of 9, you’ll get up to 136 direct points added to your CRS ranking. Appearing for a language test in French can also add up to 72 points.</li>
+            <li ><b class="canada_page_cal_h5">PROVINCIAL NOMINEE PROGRAM:</b><br> if you receive an invitation, you will receive 600 additional points for your Express Entry profile.</li>
+            <li ><b class="canada_page_cal_h5">GET A WORK OFFER [LMIA Approved]:</b><br> If you receive a work offer recognized by the Labor Market Impact Assessment (LMIA) from an employer in Canada, you can add up to 200 points to your CRS ranking.</li>
+            <li ><b class="canada_page_cal_h5">GET EDUCATION IN CANADA:</b><br> Up to 30 extra points can be received if you complete a recognized degree or diploma in Canada.</li>
+            <li ><b class="canada_page_cal_h5">DEPENDENT INCLUDED IN THE APPLICATION</b> <br> [Spouse/Common-Law Partner]:Applying with your spouse for the visa will earn you both additional points. The language proficiency of your spouse would be worth 20 points, while the education level and Canadian work experience can earn you as much as 10 points for each category. So, this will add up to 40 points to your CRS score.</li>
+            <li ><b class="canada_page_cal_h5">CANADIAN WORK EXPERIENCE:</b><br> If you have fewer than three years of full-time work experience and if you continue to work you can add maximum 150 points to your CRS score.</li>
+            </ul>
+            </li>
+            </ul>
         </div>
-        <!-- sidebar-page-container end -->
-
-
+                        </div>
         <!-- main-footer -->
         <footer class="main-footer bg-color-2">
             <div class="auto-container">
@@ -450,16 +424,16 @@ Culinary arts
                         <div class="row clearfix">
                             <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                                 <div class="footer-widget logo-widget">
-                                    <figure class="footer-logo"><a href="index-2.html"><img src="assets/images/footer-logo.png" alt=""></a></figure>
+                                    <figure class="footer-logo"><a href="index.html"><img src="assets/images/footer-logo.png" alt=""></a></figure>
                                     <div class="text">
                                         <p>Integer lobortis sem consequat imperdiet In nulla viverra ut lorem ut, dapibus conse etur diam. Nun bibendum diet condiment sed ipsum duis lacinia.</p>
                                     </div>
                                     <ul class="social-links clearfix">
-                                        <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-linkedin-in"></i></a></li>
+                                        <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="index.html"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
+                                        <li><a href="index.html"><i class="fab fa-linkedin-in"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -470,12 +444,12 @@ Culinary arts
                                     </div>
                                     <div class="widget-content">
                                         <ul class="list clearfix">
-                                            <li><a href="index-2.html">Pre Assessment</a></li>
-                                            <li><a href="index-2.html">Visa Consultation</a></li>
-                                            <li><a href="index-2.html">Business Plans</a></li>
-                                            <li><a href="index-2.html">Post Landing Assistant</a></li>
-                                            <li><a href="index-2.html">Meet Our Agents</a></li>
-                                            <li><a href="index-2.html">Visa Documentation</a></li>
+                                            <li><a href="index.html">Pre Assessment</a></li>
+                                            <li><a href="index.html">Visa Consultation</a></li>
+                                            <li><a href="index.html">Business Plans</a></li>
+                                            <li><a href="index.html">Post Landing Assistant</a></li>
+                                            <li><a href="index.html">Meet Our Agents</a></li>
+                                            <li><a href="index.html">Visa Documentation</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -487,12 +461,12 @@ Culinary arts
                                     </div>
                                     <div class="widget-content">
                                         <ul class="list clearfix">
-                                            <li><a href="index-2.html">About FLYMINGO IMMIGRATIONS</a></li>
-                                            <li><a href="index-2.html">Why Immigrate</a></li>
-                                            <li><a href="index-2.html">Service Features</a></li>
-                                            <li><a href="index-2.html">Study Visas</a></li>
-                                            <li><a href="index-2.html">Apply As Citizenship</a></li>
-                                            <li><a href="index-2.html">Immigration Resources</a></li>
+                                            <li><a href="index.html">About FLYMINGO IMMIGRATIONS</a></li>
+                                            <li><a href="index.html">Why Immigrate</a></li>
+                                            <li><a href="index.html">Service Features</a></li>
+                                            <li><a href="index.html">Study Visas</a></li>
+                                            <li><a href="index.html">Apply As Citizenship</a></li>
+                                            <li><a href="index.html">Immigration Resources</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -517,11 +491,11 @@ Culinary arts
                     </div>
                 </div>
                 <div class="footer-bottom clearfix">
-                    <div class="copyright pull-left"><p>(&copy;) 2020 <a href="index-2.html">FLYMINGO IMMIGRATIONS</a> Immigration & Visa Firm. All rights reserved.</p></div>
+                    <div class="copyright pull-left"><p>(&copy;) 2020 <a href="index.html">FLYMINGO IMMIGRATIONS</a> Immigration & Visa Firm. All rights reserved.</p></div>
                     <ul class="footer-nav pull-right clearfix"> 
-                        <li><a href="index-2.html">Privacy Policy</a></li>
-                        <li><a href="index-2.html">Sitemap</a></li>
-                        <li><a href="index-2.html">Terms & Conditions</a></li>
+                        <li><a href="index.html">Privacy Policy</a></li>
+                        <li><a href="index.html">Sitemap</a></li>
+                        <li><a href="index.html">Terms & Conditions</a></li>
                     </ul>
                 </div>
             </div>
@@ -590,5 +564,5 @@ Culinary arts
     <script src="assets/js/script.js"></script>
 </body><!-- End of .page_wrapper -->
 
-<!-- Webiste Powered By MRKY service-details-4.html <!-- Webiste Powered By MRKY  Mon, 06 Sep 2021 08:09:52 GMT -->
+<!-- Webiste Powered By MRKY apply-element.html<!-- Webiste Powered By MRKY -->
 </html>
